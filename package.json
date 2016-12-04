@@ -1,0 +1,16 @@
+{
+  "name": "express4",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "s": "node app.js",
+    "curl": "curl -i http://localhost:3000/test",
+    "start": "start npm run s"
+  },
+  "author": "Thekho Ngaosathe",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
